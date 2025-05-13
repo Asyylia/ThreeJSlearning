@@ -2,13 +2,13 @@ Commande pour installer Node.JS :
 - Installer l'installeur node
   
     - si l'installeur ne marche pas, ouvrir WindowsPowershell et écrire :
-        - # Télécharger et installer fnm :
+        -  Télécharger et installer fnm :
             winget install Schniz.fnm
-        - # Télécharger et installer Node.js :
+        -  Télécharger et installer Node.js :
             fnm install 22
-        - # Vérifier la version de Node.js :
+        -  Vérifier la version de Node.js :
           node -v # Doit afficher "v22.15.0".
-        - # Vérifier la version de npm :
+        -  Vérifier la version de npm :
           npm -v # Doit afficher "10.9.2".
       
 - Dans le terminal VSCode :
